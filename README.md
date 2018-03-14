@@ -1,2 +1,2 @@
 # newproject-site
-create second site
+create visual studio test site
